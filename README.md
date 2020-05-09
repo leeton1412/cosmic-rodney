@@ -1,39 +1,17 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+Cosmic Rodney
+This project is to help create a website for an existing band, Cosmic Rodney, to help build there presence and generate more business for them.
+I aquired authorisation to work on the website from the band members. It is designed to be an easy to view/navigate website and not overload the viewer.
+Visitors to the site will be able to gain a insight into the band, view pictures from past events and contact the band for bookings. 
 
-Welcome USER_NAME,
+Essentially, this part is your sales pitch.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+UX
+The website is built as simply as possible to not overload the viewer with information. It will be a site thats easy to navigate and learn.
 
-## Gitpod Reminders
+A user of the site will want to see what Cosmic Rodney preform and see examples of this. They will be able to email the band or get in direct contact with them
+if they want to book an event via a simple form.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+They will also be able through simple navigation, which is common to them, view the band members and a short bio on them.
 
-`python3 -m http.server`
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+The user will not be overloaded with information as they will want a quick, easy to view site on all devices in order to make a decision
+on booking the band.
