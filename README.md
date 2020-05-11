@@ -3,7 +3,7 @@ This project is to help create a website for an existing band, Cosmic Rodney, to
 I aquired authorisation to work on the website from the band members. It is designed to be an easy to view/navigate website and not overload the viewer.
 Visitors to the site will be able to gain a insight into the band, view pictures from past events and contact the band for bookings. 
 
-Essentially, this part is your sales pitch.
+
 
 UX
 The website is built as simply as possible to not overload the viewer with information. It will be a site thats easy to navigate and learn.
