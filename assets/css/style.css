@@ -1,37 +1,43 @@
-/*---------Fonts---------*/
-@import url("https://fonts.googleapis.com/css?family=Dancing+Script|Luckiest+Guy:100,200,300,400,500,600,700");
-
-
-/*---------General styles-------*/
-body{
-    margin: 0;
+@import url("https://fonts.googleapis.com/css?family=Luckiest+Guy");
+* {
+  font-family: "Luckiest guy", sans-serif;
+}
+body {
+  height: 2000px;
+}
+.navbar .navbar-brand {
+  font-size: 40px;
+  color: yellow;
+}
+.navbar .nav-item {
+  padding: 10px 20px;
+}
+.navbar .nav-link {
+  font-size: 15px;
+  margin-left: 10px;
+  color: yellow;
+}
+.fa-bars {
+  color: yellow;
+  font-size: 30px;
 }
 
-
-/*---------Colors--------*/
-
-
-
-
-
-/*-------- styling-------*/
-
-
-
-
-/*--------- Header-------*/
-
-header{
-    margin:0;
+.nav-background{
+    background-color: #000000;
 }
 
-.cosmic-logo{
-    font-family:"Luckiest Guy", cursive;
-    font-size: 50px;
+/*-----------footer*/
+
+#cosmic-footer-wl{
+    font-family: "Luckiest guy", sans-serif;
+}
+
+.footer-background{
+    background-color: #000000;
     color: yellow;
-    background-color: #000;
+}
+.footer-copyright a{
+    text-decoration: none;
+    color: yellow;
 
 }
-
-
-
