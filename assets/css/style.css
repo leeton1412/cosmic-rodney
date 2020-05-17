@@ -41,3 +41,49 @@ body {
     color: yellow;
 
 }
+
+/*------------Headings and sub-headings--------*/
+.cosmic-light-intro h1{
+    margin-top: 40px;
+    font-size: 60px;
+    color: rgb(204, 204, 16);
+    
+}
+
+.home-page-h2-light-intro h2{
+    font-size: 20px;
+}
+
+/*----------general styling*/
+
+h1,h2,h3,h4,h5,h6{
+    text-align: center;
+}
+
+/*-- carousel---*/
+.cosmic-carousel img{
+    margin:auto;
+}
+.carousel-control-next-icon{
+    color: #00000;
+}
+
+.fas{
+    color: black;
+}
+
+.cosmic-carousel{
+    padding-bottom:20px;
+
+    
+}
+
+#cosmic-carousel-img{
+  width: 40%;
+  height: auto;
+}
+}
+
+/*----Media Queries---*/
+
+}
