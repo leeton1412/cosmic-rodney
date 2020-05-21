@@ -6,8 +6,9 @@ body {
   
   background-color: #413f3f;
   margin: 0;
-  padding:0;
+  
 }
+
 .navbar .navbar-brand {
   font-size: 40px;
   color: yellow;
@@ -63,6 +64,7 @@ h1,h2,h3,h4,h5,h6{
     text-align: center;
     text-transform: uppercase;
     color: yellow;
+    
 }
 
 /*-- carousel---*/
@@ -107,6 +109,10 @@ section p{
 
 /*--reviews--*/
 
-.card{
-    display: inline-block;
+.cosmice-review-h{
+    padding-top:30px;
+}
+
+.review-font {
+    color: yellow;
 }
