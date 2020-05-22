@@ -116,3 +116,18 @@ section p{
 .review-font {
     color: yellow;
 }
+
+/*--contact--*/
+
+.contact-us-heading{
+    padding-top: 30px; 
+
+    
+}
+
+.form-inline{
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
