@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Luckiest+Guy");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 * {
-  font-family: "Luckiest guy", sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 body {
   
@@ -30,6 +31,13 @@ body {
     background-color: #000000;
 }
 
+#cosmic-logo{
+    font-family: "luckiest guy",sans-serif;
+}
+
+.cosmic-nav-font{
+    font-family: "luckiest guy",sans-serif;
+}
 /*-----------footer*/
 
 #cosmic-footer-wl{
@@ -56,6 +64,7 @@ body {
 
 .home-page-h2-light-intro h2{
     font-size: 20px;
+    padding-bottom:15px;
 }
 
 /*----------general styling*/
@@ -64,9 +73,19 @@ h1,h2,h3,h4,h5,h6{
     text-align: center;
     text-transform: uppercase;
     color: yellow;
+    font-family: "luckiest guy",sans-serif;
+    
     
 }
-
+.cosmic-button{
+    
+    background-color: #000000;
+}
+.button-container{
+    text-align:center;
+    padding-bottom:20px;
+    padding-top:20px;
+}
 /*-- carousel---*/
 .cosmic-carousel img{
     margin:auto;
@@ -87,10 +106,19 @@ h1,h2,h3,h4,h5,h6{
   width: 40%;
   height: 50%;
 }
+
+.arrow-color{
+    color: yellow;
+}
+
 /*--Why we rock--*/ 
 .cosmic-why-we-rock{
     padding-top: 50PX;
     text-decoration: underline;
+}
+
+.cosmic-wwr-text p{
+    font-size:20px;
 }
 
 
@@ -107,14 +135,39 @@ section p{
 
 /*--reviews--*/
 
+.review-background{
+    background-color: #000000;
+}
 .cosmice-review-h{
     padding-top:30px;
 }
 
-.review-font {
-    color: yellow;
+.review-statement{
+    padding-top: 10px;
+    
 }
 
+.review-text{
+    color: #000000;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.reviewer-name{
+    text-align: center;
+    color: yellow;
+    margin: auto;
+    font-size: 15px;
+}
+
+.zoom {
+  transition: transform .2s;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.5); 
+}
 /*--contact--*/
 
 .contact-us-heading{
