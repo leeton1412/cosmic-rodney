@@ -176,12 +176,25 @@ section p{
     
 }
 
+.form-group h3{
+    font-family: "Open Sans", sans-serif;
+    color: #000000;
+}
+
 .form-inline{
     width: 80%;
     display: block;
     margin: 0 auto;
 }
 
+.form-intro-text{
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.form-container{
+    margin-bottom: 30px; 
+}
 /*--- Events*/
 .row-striped:nth-of-type(odd){
   background-color: #efefef;
