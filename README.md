@@ -79,6 +79,9 @@ https://ianlunn.github.io/Hover/.
 
 **Testing:**
 
+W3C schools validator test:No errors found.
+
+
 User interaction: Giving to a person to check the usability of the site. No problems encountered from this. 
                   Tested on http://ami.responsivedesign.is/ to view all viewpoints and is working as intended.
 
