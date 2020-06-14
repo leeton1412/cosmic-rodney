@@ -80,6 +80,7 @@ https://ianlunn.github.io/Hover/.
 **Testing:**
 
 User interaction: Giving to a person to check the usability of the site. No problems encountered from this. 
+                  Tested on http://ami.responsivedesign.is/ to view all viewpoints and is working as intended.
 
 Speed: Speed of site is at a good level. Quick to load.
 
