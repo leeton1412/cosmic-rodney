@@ -94,6 +94,8 @@ Codepen: used to help create nav bar and footer https://codepen.io/Hendawy/pen/B
 
 BeFunky: Used to resize images to create better viewing https://www.befunky.com/create/resize-image/.
 
+Bootsnipp.com: Used to insert a clean template for a events calendar bootsnipp.com/snippets/VgzeR
+
 
 Media:
 Photos: obtained from Cosmic Rodney and their facebook page https://en-gb.facebook.com/cosmicrodney/.
@@ -101,6 +103,8 @@ Photos: obtained from Cosmic Rodney and their facebook page https://en-gb.facebo
 Reviews: Obtained from Cosmic Rodney and their facebook page https://en-gb.facebook.com/cosmicrodney/.
 
 Band Bio: Obtained via Dave Tubb through Whatsapp. 
+
+Venue Information: Obtained via their personal Facebook pages.
 
 Acknowledgement:
 Stuart Crang:

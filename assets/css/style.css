@@ -201,6 +201,7 @@ section p{
     margin-bottom: 30px; 
 }
 /*--- Events*/
+/*------Event calendar from bootsnipp.com user Horseng*/
 .row-striped:nth-of-type(odd){
   background-color: #efefef;
   border-left: 4px #000000 solid;
@@ -215,7 +216,7 @@ section p{
     padding: 15px 0;
 }
 
-
+/* ----Event link styling*/
 
 .town-link a:active{
     text-decoration: none;
