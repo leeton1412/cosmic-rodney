@@ -9,7 +9,7 @@ body {
   margin: 0;
   
 }
-
+/*----------- Eric agulto repsonsive nav styles, adapted in some aspects */ 
 .navbar .navbar-brand {
   font-size: 40px;
   color: yellow;
@@ -31,6 +31,7 @@ body {
     background-color: #000000;
 }
 
+/* --------personal nav styles */ 
 #cosmic-logo{
     font-family: "luckiest guy",sans-serif;
 }
@@ -105,16 +106,10 @@ h1,h2,h3,h4,h5,h6{
     
 }
 
-#cosmic-carousel-img{
-  width: 40%;
-  height: 50%;
-}
 
-.arrow-color{
-    color: yellow;
-}
 
-/*--Why we rock--*/ 
+
+/*-------Why we rock*/ 
 .cosmic-why-we-rock{
     padding-top: 50PX;
     text-decoration: underline;
@@ -163,14 +158,17 @@ section p{
     font-size: 15px;
 }
 
+/*---- Review zoom studied from W3schools*/
 .zoom {
   transition: transform .2s;
   margin: 0 auto;
 }
 
 .zoom:hover {
-  transform: scale(1.5); 
+  transform: scale(1.2); 
 }
+
+
 /*--contact--*/
 
 .contact-us-heading{
