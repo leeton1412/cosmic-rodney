@@ -1,11 +1,12 @@
-Cosmic Rodney
+**Cosmic Rodney**
 This project is to help create a website for an existing band, Cosmic Rodney, to help build there presence and generate more business for them.
 I aquired authorisation to work on the website from the band members. It is designed to be an easy to view/navigate website and not overload the viewer.
 Visitors to the site will be able to gain a insight into the band, view pictures from past events and contact the band for bookings. 
 
+**Learnings**
+The site has been built using a variety of CSS and Bootstrap html styling to help me obtain a better understand of how bootstrap works. 
 
-
-UX
+**UX**
 The website is built as simply as possible to not overload the viewer with information. It will be a site thats easy to navigate and learn.
 
 The Homepage is desgined to have the feel of a Movie Poster and create the theme of the whole website. 
@@ -22,49 +23,49 @@ Navigation within the site will be aiming to direct them to their facebook page 
 
 The wireframes for this can be seen at this link https://www.yumpu.com/en/document/view/63484230/cosmic-rodney-basic-wireframes
 
-FEATURES STILL TO IMPLEMENT
+**FEATURES STILL TO IMPLEMENT:**
 The contact us page currently doesn't have an active form. This will be implemented once i have learnt how to do this via my course. 
 
 
 
-Existing Features.
-Nav/footer:
+**Existing Features.**
+**Nav/footer:**
 Nav links have a buzz feature to fit style of page
 
 Footer contains active links to instagram and facebook.
 
 On mobile nav bar is in collapse bar. 
 
-Homepage:
+**Homepage:**
 The home page contains a carousel showing images of the band and can be navigated left and right.
 
 Reviews have a basic zoom function via CSS. 
 
 Button at bottom of page leading to facebook reviews.
 
-Meet the band:
+**Meet the band:**
 Conatins image of each band member
 
 Contains personal Bio and names zoom via CSS
 
-Gallery:
+**Gallery:**
 12 images from Cosmic Rodneys facebook page.
 
 Images are in lightbox so can be clicked and viewed in a better format on all viewpoints
 
 Link to more media such as videos of the band. 
 
-Events:
+**Events:**
 Events page containing pervious and upcoming gigs
 
 Live links to each of the venues
 
 Postcodes linked to provide navigation for people intrested in attending 
 
-Contact us:
+**Contact us:**
 Basic form that is not live yet that will provide the members of the band with information on potential bookings. This is achieved by filling in the form
 
-Technologies used:
+**Technologies used:**
 Bootstrap: This has been used to ensure that the site is easily viewed on all viepoints. Also used to create buttons and carousel.
 https://getbootstrap.com/
 
@@ -74,15 +75,38 @@ http://ashleydw.github.io/lightbox/#image-gallery
 Hover.css: Used to create interactive functions on the website for the nav bar.
 https://ianlunn.github.io/Hover/.
 
-Testing:
+**Testing:**
+
+Speed: Speed of site is at a good level. Quick to load.
+
+Links: All links have been tested on all pages and are working as is wanted.
+       The links that provide navigation are giving incorrect directions which needs to be adressed 
+
+Footer: All footer elements have been tested and will lead the user to the correct location
+
+Homepage: Home page carousel is working correctly and will also adjust to all screen sizes 
+          Review section has been tweaked to read better after testing. Now works well on all sizes 
+          zoom function working as intended 
+          Good display on all platforms 
+
+Contact-us: Contact form will register if a field is empty or incorrect 
+
+Meet the band: Flows nicely on all viewpoints. 
+               Zoom function working as intended 
+
+Events: Event Calendar displaying correctly on all viewpoints after some alterations 
+        Navigation postcode links need to be addressed to be correct. 
+
+Gallery: Gallery lines up as intended and stacks on lower viewpoints 
 
 
 
-Deployment:
+
+**Deployment:**
 
 
 
-Credits: 
+**Credits:** 
 Content:
 Lightbox: Used to help create the gallery http://ashleydw.github.io/lightbox/#image-gallery.
 
@@ -97,7 +121,7 @@ BeFunky: Used to resize images to create better viewing https://www.befunky.com/
 Bootsnipp.com: Used to insert a clean template for a events calendar bootsnipp.com/snippets/VgzeR
 
 
-Media:
+**Media:**
 Photos: obtained from Cosmic Rodney and their facebook page https://en-gb.facebook.com/cosmicrodney/.
 
 Reviews: Obtained from Cosmic Rodney and their facebook page https://en-gb.facebook.com/cosmicrodney/.
@@ -106,7 +130,7 @@ Band Bio: Obtained via Dave Tubb through Whatsapp.
 
 Venue Information: Obtained via their personal Facebook pages.
 
-Acknowledgement:
+**Acknowledgement:**
 Stuart Crang:
 Thank you to Stuart for inspiring me to take up the course 
 
