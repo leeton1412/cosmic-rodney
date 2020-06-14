@@ -26,6 +26,8 @@ The wireframes for this can be seen at this link https://www.yumpu.com/en/docume
 **FEATURES STILL TO IMPLEMENT:**
 The contact us page currently doesn't have an active form. This will be implemented once i have learnt how to do this via my course. 
 
+Part way through the project Gitpod stopped understanding the code being written so it became difficult to read and implement certain aspects. The error
+is being investigated by Github at the moment and i will tidy the code after this. 
 
 
 **Existing Features.**
@@ -76,6 +78,8 @@ Hover.css: Used to create interactive functions on the website for the nav bar.
 https://ianlunn.github.io/Hover/.
 
 **Testing:**
+
+User interaction: Giving to a person to check the usability of the site. No problems encountered from this. 
 
 Speed: Speed of site is at a good level. Quick to load.
 
@@ -135,7 +139,7 @@ Stuart Crang:
 Thank you to Stuart for inspiring me to take up the course 
 
 Laura Sawyn: 
-Thank you for helping to test and suggest changes to the website to help create a more interactive enviroment. 
+Thank you for helping to test and suggest changes to the website to help create a more interactive enviroment and helping to test the site. 
 
 Dave Tubb:
 Thank you for providing me with the information i needed to complete the website and being a go between with the band.
