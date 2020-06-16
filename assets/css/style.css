@@ -166,6 +166,7 @@ section p{
 
 .review-statement{
     padding-top: 10px;
+    padding-bottom: 10px;
     
 }
 
@@ -176,10 +177,16 @@ section p{
 }
 
 .reviewer-name{
-    text-align: center;
+    display: block;
     color: yellow;
     margin: auto;
     font-size: 15px;
+    
+}
+
+
+.reviewer-name p{
+    text-align: center;
 }
 
 /*---- Review zoom studied from W3schools*/
