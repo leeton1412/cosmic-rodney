@@ -10,6 +10,8 @@ body {
   
 }
 /*----------- Eric agulto repsonsive nav styles, adapted in some aspects */ 
+
+
 .navbar .navbar-brand {
   font-size: 40px;
   color: yellow;
@@ -32,13 +34,18 @@ body {
 }
 
 /* --------personal nav styles */ 
+
+
 #cosmic-logo{
     font-family: "luckiest guy",sans-serif;
+    font-size: 30px;
 }
 
 .cosmic-nav-font{
     font-family: "luckiest guy",sans-serif;
 }
+
+
 /*-----------footer*/
 
 #cosmic-footer-wl{
@@ -49,16 +56,22 @@ body {
     background-color: #000000;
     color: yellow;
 }
+
+
 .footer-copyright a{
     text-decoration: none;
     color: yellow;
 
 }
+
+
 .insta a{
     color:rgb(245,66, 129);
 }
 
 /*------------Headings and sub-headings--------*/
+
+
 .cosmic-light-intro h1{
     margin-top: 40px;
     font-size: 60px;
@@ -71,7 +84,7 @@ body {
     padding-bottom:15px;
 }
 
-/*----------general styling*/
+/*------------------------------------------general styling*/
 
 h1,h2,h3,h4,h5,h6{
     text-align: center;
@@ -81,16 +94,25 @@ h1,h2,h3,h4,h5,h6{
     
     
 }
+
+
 .cosmic-button{
     
     background-color: #000000;
+    color: #fff000;
 }
+
+
 .button-container{
     text-align:center;
     padding-bottom:20px;
     padding-top:20px;
 }
-/*-- carousel---*/
+
+
+/*----------------------------- carousel---*/
+
+
 .cosmic-carousel img{
     margin:auto;
 }
@@ -110,6 +132,7 @@ h1,h2,h3,h4,h5,h6{
 
 
 /*-------Why we rock*/ 
+
 .cosmic-why-we-rock{
     padding-top: 50PX;
     text-decoration: underline;
@@ -117,6 +140,7 @@ h1,h2,h3,h4,h5,h6{
 
 .cosmic-wwr-text p{
     font-size:20px;
+    color:#fafafa;
 }
 
 
@@ -146,7 +170,7 @@ section p{
 }
 
 .review-text{
-    color: #000000;
+    color: #fafafa;
     font-weight: bolder;
     font-size: 20px;
 }
@@ -159,6 +183,7 @@ section p{
 }
 
 /*---- Review zoom studied from W3schools*/
+
 .zoom {
   transition: transform .2s;
   margin: 0 auto;
@@ -201,7 +226,9 @@ section p{
     margin-bottom: 30px; 
 }
 /*--- Events*/
+
 /*------Event calendar from bootsnipp.com user Horseng*/
+
 .row-striped:nth-of-type(odd){
   background-color: #efefef;
   border-left: 4px #000000 solid;
