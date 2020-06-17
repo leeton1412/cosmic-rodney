@@ -28,4 +28,4 @@ The predicted users of the site will be Fans, Pub owners, Event planners and Ban
 ![Cosmic Rodney Band Logo] (documentation/Cosmic-logo-readme-resized.png)
 
 -Colours and theme of the website are based off this logo.
-    -Yellow ![fff000](https://via.placeholder.com/150/0000FF/808080)
+    -Yellow ![fff000](https://via.placeholder.com/20/fff000/fff000)
