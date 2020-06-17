@@ -9,7 +9,7 @@ body {
   margin: 0;
   
 }
-/*----------- Eric agulto repsonsive nav styles, adapted in some aspects */ 
+/*------------------------------- Eric agulto repsonsive nav styles, adapted in some aspects */ 
 
 
 .navbar .navbar-brand {
@@ -33,7 +33,7 @@ body {
     background-color: #000000;
 }
 
-/* --------personal nav styles */ 
+/* ------------------------------personal nav styles */ 
 
 
 #cosmic-logo{
@@ -46,7 +46,7 @@ body {
 }
 
 
-/*-----------footer*/
+/*----------------------------------------------footer*/
 
 #cosmic-footer-wl{
     font-family: "Luckiest guy", sans-serif;
@@ -64,10 +64,15 @@ body {
 
 }
 
-
-.insta a{
-    color:rgb(245,66, 129);
+.social-icons{
+    color:#fff000;
 }
+
+.social-icons:hover{
+    color: #fff000;
+}
+
+
 
 /*------------Headings and sub-headings--------*/
 
