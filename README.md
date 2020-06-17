@@ -23,3 +23,9 @@ The predicted users of the site will be Fans, Pub owners, Event planners and Ban
 2. Pub owners looking to book Cosmic Rodeny for future events
 3. Event planners looking to aquire entertainment for corporate or personal events.
 4. Agents looking to potentially contact the band after viewing there media.
+
+### Thoughts Behind The Design
+![Cosmic Rodney Band Logo] (documentation/Cosmic-logo-readme-resized)
+
+-Colours and theme of the website are based off this logo.
+    -Yellow ![fff000](https://via.placeholder.com/150/0000FF/808080)
