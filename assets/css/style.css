@@ -129,7 +129,7 @@
  .reviewer-name p{
      text-align: center;
 }
-/*---- Review zoom studied from W3schools*/
+/*------------------------ Review zoom studied from W3schools*/
  .zoom {
      transition: transform .2s;
      margin: 0 auto;
