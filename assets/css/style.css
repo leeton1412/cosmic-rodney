@@ -1,285 +1,197 @@
 @import url("https://fonts.googleapis.com/css?family=Luckiest+Guy");
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-* {
-  font-family: 'Open Sans', sans-serif;
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+ * {
+     font-family: 'Open Sans', sans-serif;
 }
-body {
-  
-  background-color: #413f3f;
-  margin: 0;
-  
+ body {
+     background-color: #413f3f;
+     margin: 0;
 }
-/*------------------------------- Eric agulto repsonsive nav styles, adapted in some aspects */ 
-
-
-.navbar .navbar-brand {
-  font-size: 40px;
-  color: #fff000;
+/*------------------------------- Eric agulto repsonsive nav styles, adapted in some aspects */
+ .navbar .navbar-brand {
+     font-size: 40px;
+     color: #fff000;
 }
-.navbar .nav-item {
-  padding: 10px 20px;
+ .navbar .nav-item {
+     padding: 10px 20px;
 }
-.navbar .nav-link {
-  font-size: 15px;
-  margin-left: 10px;
-  color: #fff000;
+ .navbar .nav-link {
+     font-size: 15px;
+     margin-left: 10px;
+     color: #fff000;
 }
-.fa-bars {
-  color: #fff000;
-  font-size: 30px;
+ .fa-bars {
+     color: #fff000;
+     font-size: 30px;
 }
-
-.nav-background{
-    background-color: #000000;
+ .nav-background{
+     background-color: #000000;
 }
-
-/* ------------------------------personal nav styles */ 
-
-
-#cosmic-logo{
-    font-family: "luckiest guy",sans-serif;
-    font-size: 30px;
+/* ------------------------------personal nav styles */
+ #cosmic-logo{
+     font-family: "luckiest guy",sans-serif;
+     font-size: 30px;
 }
-
-.cosmic-nav-font{
-    font-family: "luckiest guy",sans-serif;
+ .cosmic-nav-font{
+     font-family: "luckiest guy",sans-serif;
 }
-
-
 /*----------------------------------------------footer*/
-
-#cosmic-footer-wl{
-    font-family: "Luckiest guy", sans-serif;
+ #cosmic-footer-wl{
+     font-family: "Luckiest guy", sans-serif;
 }
-
-.footer-background{
-    background-color: #000000;
-    color:#fff000;
+ .footer-background{
+     background-color: #000000;
+     color:#fff000;
 }
-
-
-.footer-copyright a{
-    text-decoration: none;
-    color: #fff000;
-
+ .footer-copyright a{
+     text-decoration: none;
+     color: #fff000;
 }
-
-.social-icons{
-    color:#fff000;
+ .social-icons{
+     color:#fff000;
 }
-
-.social-icons:hover{
-    color: #fff000;
+ .social-icons:hover{
+     color: #fff000;
 }
-
-
-
 /*------------Headings and sub-headings--------*/
-
-
-.cosmic-light-intro h1{
-    margin-top: 40px;
-    font-size: 60px;
-    color:#fff000;
-    
+ .cosmic-light-intro h1{
+     margin-top: 40px;
+     font-size: 60px;
+     color:#fff000;
 }
-
-.home-page-h2-light-intro h2{
-    font-size: 20px;
-    padding-bottom:15px;
+ .home-page-h2-light-intro h2{
+     font-size: 20px;
+     padding-bottom:15px;
 }
-
 /*------------------------------------------general styling*/
-
-h1,h2,h3,h4,h5,h6{
-    text-align: center;
-    text-transform: uppercase;
-    color:#fff000;
-    font-family: "luckiest guy",sans-serif;
-    
-    
+ h1,h2,h3,h4,h5,h6{
+     text-align: center;
+     text-transform: uppercase;
+     color:#fff000;
+     font-family: "luckiest guy",sans-serif;
 }
-
-
-.cosmic-button{
-    
-    background-color: #000000;
-    color: #fff000;
+ .cosmic-button{
+     background-color: #000000;
+     color: #fff000;
 }
-
-
-.button-container{
-    text-align:center;
-    padding-bottom:20px;
-    padding-top:20px;
+ .button-container{
+     text-align:center;
+     padding-bottom:20px;
+     padding-top:20px;
 }
-
-
 /*----------------------------- carousel---*/
-
-
-.cosmic-carousel img{
-    margin:auto;
+ .cosmic-carousel img{
+     margin:auto;
 }
-.carousel-control-next-icon{
-    color: #000000;
+ .carousel-control-next-icon{
+     color: #000000;
 }
-
-
-
-.cosmic-carousel{
-    padding-bottom:20px;
-
-    
+ .cosmic-carousel{
+     padding-bottom:20px;
 }
-
-
-
-
-/*-----------------------Why we rock*/ 
-
-.cosmic-why-we-rock{
-    padding-top: 50PX;
-    
+/*-----------------------Why we rock*/
+ .cosmic-why-we-rock{
+     padding-top: 50PX;
 }
-
-.cosmic-wwr-text p{
-    font-size:20px;
-    color:#fafafa;
+ .cosmic-wwr-text p{
+     font-size:20px;
+     color:#fafafa;
 }
-
-
-
-section p{
-    color: yellow;
-    font-size:15px;
-    margin-top: 20px;
-    
-    width: 100%;
-    margin-left: AUTO;
-    
+ section p{
+     color: yellow;
+     font-size:15px;
+     margin-top: 20px;
+     width: 100%;
+     margin-left: AUTO;
 }
-
 /*---------------------------reviews--*/
-
-.review-background{
-    background-color: #000000;
+ .review-background{
+     background-color: #000000;
 }
-.cosmice-review-h{
-    padding-top:30px;
+ .cosmice-review-h{
+     padding-top:30px;
 }
-
-.review-statement{
-    padding-top: 10px;
-    padding-bottom: 10px;
-    
+ .review-statement{
+     padding-top: 10px;
+     padding-bottom: 10px;
 }
-
-.review-text{
-    color: #fafafa;
-    font-weight: bolder;
-    font-size: 20px;
+ .review-text{
+     color: #fafafa;
+     font-weight: bolder;
+     font-size: 20px;
 }
-
-.reviewer-name{
-    display: block;
-    color: #fff000;
-    margin: auto;
-    font-size: 15px;
-    
+ .reviewer-name{
+     display: block;
+     color: #fff000;
+     margin: auto;
+     font-size: 15px;
 }
-
-
-.reviewer-name p{
-    text-align: center;
+ .reviewer-name p{
+     text-align: center;
 }
-
 /*---- Review zoom studied from W3schools*/
-
-.zoom {
-  transition: transform .2s;
-  margin: 0 auto;
+ .zoom {
+     transition: transform .2s;
+     margin: 0 auto;
 }
-
-.zoom:hover {
-  transform: scale(1.2); 
+ .zoom:hover {
+     transform: scale(1.2);
 }
-
-
 /*-------------------------contact--*/
-
-.contact-us-heading{
-    padding-top: 30px; 
-
-    
+ .contact-us-heading{
+     padding-top: 30px;
 }
-
-.contact-us-form-color{
-    background-color: #fafafa;
+ .contact-us-form-color{
+     background-color: #fafafa;
 }
-
-.form-group h3{
-    font-family: "Open Sans", sans-serif;
-    color: #000000;
+ .form-group h3{
+     font-family: "Open Sans", sans-serif;
+     color: #000000;
 }
-
-.row-striped h3{
-    color: #000000;
+ .row-striped h3{
+     color: #000000;
 }
-
-.form-inline{
-    width: 80%;
-    display: block;
-    margin: 0 auto;
+ .form-inline{
+     width: 80%;
+     display: block;
+     margin: 0 auto;
 }
-
-.form-intro-text{
-    padding-top: 20px;
-    font-weight: bold;
+ .form-intro-text{
+     padding-top: 20px;
+     font-weight: bold;
 }
-
-.form-container{
-    margin-bottom: 30px; 
+ .form-container{
+     margin-bottom: 30px;
 }
 /*--- Events*/
-
 /*------Event calendar from bootsnipp.com user Horseng*/
-
-.row-striped:nth-of-type(odd){
-  background-color: #bbbbb;
-  border-left: 4px #000000 solid;
+ .row-striped:nth-of-type(odd){
+     background-color: #bbbbb;
+     border-left: 4px #000000 solid;
 }
-
-.row-striped:nth-of-type(even){
-  background-color: #fafafa;
-  border-left: 4px #efefef solid;
+ .row-striped:nth-of-type(even){
+     background-color: #fafafa;
+     border-left: 4px #efefef solid;
 }
-
-.row-striped {
-    padding: 15px 0;
+ .row-striped {
+     padding: 15px 0;
 }
-
 /* --------------------------Event link styling*/
-
-.town-link a:active{
-    text-decoration: none;
-    color: #000000;
-} 
-
-.town-link a:visited{
-    color: #000000;
-    text-decoration: none;
+ .town-link a:active{
+     text-decoration: none;
+     color: #000000;
 }
-
-.town-link a:hover{
-    columns: #000000;
-    text-decoration: none;
+ .town-link a:visited{
+     color: #000000;
+     text-decoration: none;
 }
-
-
+ .town-link a:hover{
+     columns: #000000;
+     text-decoration: none;
+}
 /*--------------------------------meet the band--*/
-
-.band-bio{
-    color:#fafafa;
-    padding-top: 25px;
+ .band-bio{
+     color:#fafafa;
+     padding-top: 25px;
 }
+ 
