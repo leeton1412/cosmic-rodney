@@ -41,6 +41,31 @@ Header font throughout the website are chosen to mimic the Logo style:
 
 Elements such as paragraphs are a complementing font:
 
-    *Font-family: 'Open Sans', Sans-serif; 
+    *Font-family: 'Open Sans', Sans-serif;
+
+###WireFrames 
+
+Here you will find the Wireframes created for the website on [Yumpu](https://www.yumpu.com/en/document/view/63484230/cosmic-rodney-basic-wireframes)
+Designed using [Balsamiq](https://balsamiq.com/)
+
+###Features 
+
+-Easy Navigation
+-Hover affects on Nav and logo
+-Zoom function on Reviews and Band bio
+-Carousel of images 
+-Gallery displayed with [Lightbox](http://ashleydw.github.io/lightbox/#image-gallery)
+-Contact form
+-Social Media buttons
+-Extra content buttons
+-Responsive Mobile first design
+-[Bootstrap](https://getbootstrap.com/) 
+    -HTML class utilites
+    -Grid system
+    -Layout Change
+-Band bio
+-Events Page
+-Band Logo
+
 
 
