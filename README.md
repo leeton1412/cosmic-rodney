@@ -27,6 +27,20 @@ The predicted users of the site will be Fans, Pub owners, Event planners and Ban
 ### Thoughts Behind The Design
 ![Cosmic Rodney Band Logo](documentation/Cosmic-readme.png)
 
-Colors and theme of the website are based off this logo
+###Colors and theme of the website are based off this logo:
 
-    Yellow    ![#fff000](https://via.placeholder.com/15/fff000/fff000)
+    *Yellow:    ![#fff000](https://via.placeholder.com/15/fff000/fff000)
+    *Varient of white:   ![#fafafa](https://via.placeholder.com/15/fafafa/fafafa)
+    *Black: ![#000000](https://via.placeholder.com/15/000000/000000)
+    *Very dark greyish red: ![#413f3f](https://via.placeholder.com/15/413f3f/413f3f)
+
+###Font Choices 
+-Header font throughout the website are chosen to mimic the Logo style  
+
+    *Font-family: 'luckiest-guy', Sans-serif; 
+
+-Elements such as paragraphs are a complementing font
+
+    *Font-family: 'Open Sans', Sans-serif; 
+    
+
