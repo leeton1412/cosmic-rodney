@@ -43,12 +43,12 @@ Elements such as paragraphs are a complementing font:
 
     *Font-family: 'Open Sans', Sans-serif;
 
-###WireFrames 
+### WireFrames 
 
 Here you will find the Wireframes created for the website on [Yumpu](https://www.yumpu.com/en/document/view/63484230/cosmic-rodney-basic-wireframes)
 Designed using [Balsamiq](https://balsamiq.com/)
 
-###Features 
+### Features 
 
 -Easy Navigation
 -Hover affects on Nav and logo
