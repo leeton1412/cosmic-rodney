@@ -106,6 +106,80 @@ Technologies used in the making of this page are:
     - Used for Repository.
 -[Gitpages](https://pages.github.com/)
     - Used to Host the website. 
+- [Am I Responsive?](http://ami.responsivedesign.is/)
+    - Used to check the responsive design of the website.
+
+### Testing
+
+The site was tested by users and software 
+
+## [Jessica Bennet](https://www.linkedin.com/in/jessica-bennett-33750368/)
+
+Jessica was asked to test the page and to feed back on any problems that she encountered or for any feed back she might have.
+- Problems Encountered 
+    - Gallery page displayed a scroll bar on screens sized 414 x 736.
+        - Issue was due to a container problem but has been changed.
+
+-Feed Back. 
+    - Syntax Error with text on Contact Page
+        - Syntax wording did not match with flow of page.
+        - The text has now been corrected. 
+
+## [Phillip Griffith](https://www.linkedin.com/in/phillip-griffith-bsc-cs/)
+
+Phillip was asked to test the page and to feed back on any problems that he encountered or for any feed back he might have. 
+- Problems Encountered 
+    - No problems encountered
+
+-Feed Back.
+    - Font color used for review section.
+        - Font color changed to make it more visable. 
+
+## [Laura Sawyn](https://www.linkedin.com/in/laura-sawyn-628757178/)
+
+Laura was asked to give feedback of the layout of the page.
+- Feed Back.
+    - Layout on Meet the band page sizes 414 x 736 was not smooth.
+        - Layout has been changed to create a better user experience on mobiles.
+
+    - Header on Homepage leading to reviews didn't stand out enough.
+        - A black background has been added to the container to break the section up more. 
+
+## [W3c Markup Validation](https://validator.w3.org/)
+
+Used to look for any potential problems.
+- Problems.
+    - Gallery did not contain any alt tags. This has been changed. 
+    - Event page contained h3 tag after a label tag and is not allowed. This has been changed. 
+
+## David Tubb
+
+David is a member of the bband and was asked to test the website on Ipad screen size 768 x 1024.
+- Problems 
+    - No problems encountered. 
+
+## [Am I Responsive?](http://ami.responsivedesign.is/)
+
+This website was used to check the layout on various screen sizes. 
+- Problems
+    - Gallery footer doesnt stick to page on screen size 768 x 1024.
+        - This problem has been fixed.
+
+### Deployment
+
+The website is hosted on [GitHub Pages](https://leeton1412.github.io/cosmic-rodney/index.html)
+
+The process:
+- Host a git repository on Github.
+- In the settings for the repository scroll down till Github Pages section.
+- Select which Branch you would like in source section. (Normally Master Branch)
+- Change the address of your website if required 
+- Save changes. 
+- The page is now ready to be viewed.
+
+
+    
+
 
 
 
