@@ -120,7 +120,7 @@ Jessica was asked to test the page and to feed back on any problems that she enc
     - Gallery page displayed a scroll bar on screens sized 414 x 736.
         - Issue was due to a container problem but has been changed.
 
--Feed Back. 
+- Feed Back. 
     - Syntax Error with text on Contact Page
         - Syntax wording did not match with flow of page.
         - The text has now been corrected. 
@@ -131,7 +131,7 @@ Phillip was asked to test the page and to feed back on any problems that he enco
 - Problems Encountered 
     - No problems encountered
 
--Feed Back.
+- Feed Back.
     - Font color used for review section.
         - Font color changed to make it more visable. 
 
