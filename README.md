@@ -29,10 +29,10 @@ The predicted users of the site will be Fans, Pub owners, Event planners and Ban
 
 ### Colors and theme of the website are based off this logo:
 
-    *Yellow:    ![#fff000](https://via.placeholder.com/15/fff000/fff000)
-    *Varient of white:   ![#fafafa](https://via.placeholder.com/15/fafafa/fafafa)
-    *Black: ![#000000](https://via.placeholder.com/15/000000/000000)
-    *Very dark greyish red: ![#413f3f](https://via.placeholder.com/15/413f3f/413f3f)
+    * Yellow:    ![#fff000](https://via.placeholder.com/15/fff000/fff000)
+    * Varient of white:   ![#fafafa](https://via.placeholder.com/15/fafafa/fafafa)
+    * Black: ![#000000](https://via.placeholder.com/15/000000/000000)
+    * Very dark greyish red: ![#413f3f](https://via.placeholder.com/15/413f3f/413f3f)
 
 ### Font Choices 
 Header font throughout the website are chosen to mimic the Logo style:
@@ -50,22 +50,22 @@ Designed using [Balsamiq](https://balsamiq.com/)
 
 ### Features 
 
--Easy Navigation
--Hover affects on Nav and logo
--Zoom function on Reviews and Band bio
--Carousel of images 
--Gallery displayed with [Lightbox](http://ashleydw.github.io/lightbox/#image-gallery)
--Contact form
--Social Media buttons
--Extra content buttons
--Responsive Mobile first design
--[Bootstrap](https://getbootstrap.com/) 
-    -HTML class utilites
-    -Grid system
-    -Layout Change
--Band bio
--Events Page
--Band Logo
+- Easy Navigation
+- Hover affects on Nav and logo
+- Zoom function on Reviews and Band bio
+- Carousel of images 
+- Gallery displayed with [Lightbox](http://ashleydw.github.io/lightbox/#image-gallery)
+- Contact form
+- Social Media buttons
+- Extra content buttons
+- Responsive Mobile first design
+- [Bootstrap](https://getbootstrap.com/) 
+    - HTML class utilites
+    - Grid system
+    - Layout Change
+- Band bio
+- Events Page
+- Band Logo
 
 
 
