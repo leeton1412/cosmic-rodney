@@ -67,5 +67,45 @@ Designed using [Balsamiq](https://balsamiq.com/)
 - Events Page
 - Band Logo
 
+### Features Still to Include 
+
+- Live contact form
+    - Contact form has no post data. Will be live once I learn that skill set.
+- Previous band members page.
+    - This is request from the band for previous members but is not required yet. 
+- GPS for guidance to venues 
+    - During Testing it showed that the GPS links are not correct. This needs rectifying. 
+
+### Technologies Used:
+
+Technologies used in the making of this page are:
+
+- [HTML](https://www.w3schools.com/whatis/whatis_html.asp)
+    - Used to structure the site. 
+- [CSS](https://www.w3schools.com/whatis/whatis_css.asp)
+    - Used to style the website. 
+- [Google Chrome](https://www.google.com/chrome/)
+    - Used to inspect the website via dev tools.
+- [Google](http://www.google.com)
+    - Used to conduct searches.
+- [Ekko Lightbox](https://ashleydw.github.io/lightbox/)
+    - Used to display gallery items.
+- [Hover.Css](https://ianlunn.github.io/Hover/)
+    - Used to create simple css hover animations. 
+- [Codepen](https://codepen.io/ericagulto/full/KgdyqJ/)
+    - Used to create a simple header and footer
+- [Bootsnipp](https://bootsnipp.com/snippets/VgzeR)
+    - Used to create a simple events calendar. 
+- [Bootstrap 4](https://getbootstrap.com/)
+    - Used for helping create a mobile responsive website. 
+- [CDN.js](https://cdnjs.com/)
+    - Used to create simple css hover animations.
+-[Gitpod](https://www.gitpod.io/)
+    - Used to build the website.
+-[GitHub](https://github.com/)
+    - Used for Repository.
+-[Gitpages](https://pages.github.com/)
+    - Used to Host the website. 
+
 
 
