@@ -163,7 +163,7 @@
  .form-container{
      margin-bottom: 30px;
 }
-/*--- Events*/
+/*--------------------------------------------- Events*/
 /*------Event calendar from bootsnipp.com user Horseng*/
  .row-striped:nth-of-type(odd){
       border-left: 4px #000000 solid;
@@ -193,4 +193,4 @@
      color:#fafafa;
      padding-top: 25px;
 }
- 
+ /*---------------------------gallery footer sticking-----*/
