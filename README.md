@@ -176,6 +176,10 @@ The process:
 - Change the address of your website if required 
 - Save changes. 
 - The page is now ready to be viewed.
+- The generic page set up willbe 'yourusername'.github.io/'thereponame'
+
+
+
 
 
     
