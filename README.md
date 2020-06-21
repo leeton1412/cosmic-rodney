@@ -176,7 +176,31 @@ The process:
 - Change the address of your website if required 
 - Save changes. 
 - The page is now ready to be viewed.
-- The generic page set up willbe 'yourusername'.github.io/'thereponame'
+- The generic page set up will be 'yourusername'.github.io/'thereponame'
+
+### Credits
+
+## Content 
+
+- All images from this website are obtained from [Cosmic Rodney Facebook page](https://en-gb.facebook.com/cosmicrodney/)
+
+- Band Bio information is personally composed by the band members. 
+
+- Gallery Ekko lightbox is botained from [Ekko lightbox](https://ashleydw.github.io/lightbox/)
+
+- Nav bar basic structure obtained from [CodePen](https://codepen.io/ericagulto/full/KgdyqJ/)
+
+- Hover affects obtained from [Hover.css](https://ianlunn.github.io/Hover/)
+
+- Event Calendar obtained from [Bootsnipp](https://bootsnipp.com/snippets/VgzeR)
+
+## Acknowledgments 
+
+- Thanks to Seun Owonikoko @seun_mentor
+- Stuart Crang For encouraging me to join the course
+- My current Linkedin Group for help and motivation. 
+- Cosmic Rodney for allowing me to build a site for them. 
+
 
 
 
