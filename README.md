@@ -200,6 +200,7 @@ The process:
 - Stuart Crang For encouraging me to join the course
 - My current Linkedin Group for help and motivation. 
 - Cosmic Rodney for allowing me to build a site for them. 
+- Code institute for providing me with the tools to chase my dreams
 
 
 
