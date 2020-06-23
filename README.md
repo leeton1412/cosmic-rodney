@@ -1,7 +1,9 @@
 # Cosmic Rodney
 
 A website built to help promote a cover band based in Peterborough called *Cosmic Rodney*. 
-The website will contain contact information and contact options. 
+The website will contain contact information and contact options. It is built with mobile first approach.
+The aim of the page is to create a fun feeling website that represents the bands ethos. It is also
+design with simplicity first to create an easy learning experience for all users.
 
 Hosted on [GitHub Pages](https://leeton1412.github.io/cosmic-rodney/)
 Repository on [GitHub.com](https://github.com/leeton1412/cosmic-rodney)
@@ -19,10 +21,12 @@ It is not avaliable for sharing.
 The predicted users of the site will be Fans, Pub owners, Event planners and Band Agents.
 
 ### User Stories 
-1. A fan of Cosmic Rodney looking for information on future events or band member information.
-2. Pub owners looking to book Cosmic Rodeny for future events
+1. A fan of Cosmic Rodney looking for information on future events.
+2. Pub owners looking to book Cosmic Rodeny for future events.
 3. Event planners looking to aquire entertainment for corporate or personal events.
 4. Agents looking to potentially contact the band after viewing there media.
+5. Fans looking to write directly to the band.
+6. A fan of Cosmic Rodney looking for band member information.
 
 ### Thoughts Behind The Design
 ![Cosmic Rodney Band Logo](documentation/Cosmic-readme.png)
@@ -108,12 +112,15 @@ Technologies used in the making of this page are:
     - Used to Host the website. 
 - [Am I Responsive?](http://ami.responsivedesign.is/)
     - Used to check the responsive design of the website.
+- [Befunky](https://www.befunky.com/)
+    - Used to resize all images on the website
 
 ### Testing
 
-The site was tested by users and software 
+The site was tested by users and software. It has been tested on Google Chrome v83.0.4103.97 and Mozilla Firefox v77.0.1 (64) on Acer Ryzen 5 and also 
+a desktop PC. It has also been tested on Ipad Pro.
 
-## [Jessica Bennet](https://www.linkedin.com/in/jessica-bennett-33750368/)
+# [Jessica Bennet](https://www.linkedin.com/in/jessica-bennett-33750368/)
 
 Jessica was asked to test the page and to feed back on any problems that she encountered or for any feed back she might have.
 - Problems Encountered 
@@ -125,7 +132,7 @@ Jessica was asked to test the page and to feed back on any problems that she enc
         - Syntax wording did not match with flow of page.
         - The text has now been corrected. 
 
-## [Phillip Griffith](https://www.linkedin.com/in/phillip-griffith-bsc-cs/)
+# [Phillip Griffith](https://www.linkedin.com/in/phillip-griffith-bsc-cs/)
 
 Phillip was asked to test the page and to feed back on any problems that he encountered or for any feed back he might have. 
 - Problems Encountered 
@@ -135,7 +142,7 @@ Phillip was asked to test the page and to feed back on any problems that he enco
     - Font color used for review section.
         - Font color changed to make it more visable. 
 
-## [Laura Sawyn](https://www.linkedin.com/in/laura-sawyn-628757178/)
+# [Laura Sawyn](https://www.linkedin.com/in/laura-sawyn-628757178/)
 
 Laura was asked to give feedback of the layout of the page.
 - Feed Back.
@@ -145,20 +152,22 @@ Laura was asked to give feedback of the layout of the page.
     - Header on Homepage leading to reviews didn't stand out enough.
         - A black background has been added to the container to break the section up more. 
 
-## [W3c Markup Validation](https://validator.w3.org/)
+# David Tubb
+
+David is a member of the bband and was asked to test the website on Ipad screen size 768 x 1024.
+- Problems 
+    - No problems encountered. 
+
+### Technologies used for testing.
+
+# [W3c Markup Validation](https://validator.w3.org/)
 
 Used to look for any potential problems.
 - Problems.
     - Gallery did not contain any alt tags. This has been changed. 
     - Event page contained h3 tag after a label tag and is not allowed. This has been changed. 
 
-## David Tubb
-
-David is a member of the bband and was asked to test the website on Ipad screen size 768 x 1024.
-- Problems 
-    - No problems encountered. 
-
-## [Am I Responsive?](http://ami.responsivedesign.is/)
+# [Am I Responsive?](http://ami.responsivedesign.is/)
 
 This website was used to check the layout on various screen sizes. 
 - Problems
